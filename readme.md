@@ -2,7 +2,18 @@
 ---
 
 My coding skills in
-
     
  
-<img src="https://camo.githubusercontent.com/0a231a271e64d7b99093df977d12dfdd86db73d63eac0b1415b2620fe1f2726d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67" >
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React JS" title="React JS" width="30">
+<img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" alt="Express JS" title="Express JS" width="30">
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Javascript" title="Javascript" width="30">
+
+<img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="30" title="Bootstrap"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Html 5" title="Html 5" width="30"/>
+<img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" alt="Laravel" title="Laravel" width="30"/>
+<img src="https://img.icons8.com/?size=100&id=r4UrHt1gLC2t&format=png&color=000000" alt="Codeigniter" title="Codeigniter" width="30"/>
+<img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="Typescript" title="Typescript" width="30"/>
+<img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" title="Firebase" width="30" />
+<img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="Mysql" title="Mysql" width="30" />
+<img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="Mongo DB" title="Mongo DB" width="30" />
+<img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" alt="PHP" title="PHP" width="30" />
