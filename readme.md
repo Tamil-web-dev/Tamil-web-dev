@@ -4,10 +4,9 @@
 My coding skills in:
 
 <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React JS" title="React JS" width="30" />.
-<img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" alt="Express JS" title="Express JS" width="30" /> 
-<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node JS" title="Node JS" width="30"/>
-
-<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Javascript" title="Javascript" width="30" />  
+<img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" alt="Express JS" title="Express JS" width="30" />. 
+<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node JS" title="Node JS" width="30"/>.
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Javascript" title="Javascript" width="30" />.
 <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="Typescript" title="Typescript" width="30"/>
 <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="30" title="Bootstrap" /> 
 <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="CSS" title="CSS" width="30"/>
