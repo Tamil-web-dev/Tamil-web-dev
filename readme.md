@@ -3,5 +3,6 @@
 
 My coding skills in
 
-    ![React JS](https://img.icons8.com/?size=100&id=p57acgidi9bj&format=png&color=000000)
+    ![React JS](https://img.icons8.com/react/100/000000/react.png)
+
  
