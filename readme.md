@@ -3,6 +3,6 @@
 
 My coding skills in
 
-    ![React JS](https://img.icons8.com/react/100/000000/react.png)
+    (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
 
  
