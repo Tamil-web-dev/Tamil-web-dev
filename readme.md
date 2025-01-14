@@ -10,7 +10,6 @@ My coding skills in:
 <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="Typescript" title="Typescript" width="30"/>
 <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="30" title="Bootstrap" /> 
 <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind Css" title="Tailwind Css" width="30"/>
-
 <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="CSS" title="CSS" width="30"/>
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Html 5" title="Html 5" width="30"/> 
 <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" title="Firebase" width="30" />
